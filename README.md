@@ -15,7 +15,10 @@
 <br />
 
 <p align="center">
-[<img height="75" src="https://github.com/hbashar434/hbashar434/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/habibulbashar434/)[<img height="75" src="https://github.com/hbashar434/hbashar434/blob/main/images/icons/Facebook.png">](https://www.facebook.com/h.bashar434/)
+<a href="https://www.linkedin.com/in/habibulbashar434/">
+<img height="75" src="https://github.com/hbashar434/hbashar434/blob/main/images/icons/Linkedin.png"></a>
+<a href="https://www.facebook.com/h.bashar434/">
+<img height="75" src="https://github.com/hbashar434/hbashar434/blob/main/images/icons/Facebook.png"></a>
 </p>
 
 <br />
