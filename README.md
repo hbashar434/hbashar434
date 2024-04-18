@@ -52,7 +52,7 @@
 
 ## :eyes: Current overview
 
-### 🌱 I’m exploring - the world of WebAssembly for web.
+### 🌱 I'm exploring the world of Python for web and AI.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
