@@ -642,8 +642,8 @@
                     stroke-opacity="0.8" stroke-width="2" />
            
             </g>
-        <text x="50%" y="47%" dominant-baseline="middle" text-anchor="middle" font-family="Open Sans" font-size="92" fill="white">Welcome to My Space</text>
-        <text x="50%" y="57%" dominant-baseline="middle" text-anchor="middle" font-family="Didot" font-size="72" fill="#F3F3F3">Explore My Work</text>
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Open Sans" font-size="72" fill="white">Welcome to My Space</text>
+<!--         <text x="50%" y="57%" dominant-baseline="middle" text-anchor="middle" font-family="Didot" font-size="72" fill="#F3F3F3">Explore My Work</text> -->
         </g>
     </g>
     <defs>
